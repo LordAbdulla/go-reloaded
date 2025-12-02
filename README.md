@@ -37,4 +37,4 @@ A Go-powered text editing tool that automatically corrects, formats, and transfo
 
 ```bash
 git clone https://github.com/LordAbdulla/go-reloaded
-cd main/main.go .
+go run main/main.go .
