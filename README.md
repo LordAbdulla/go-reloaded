@@ -4,7 +4,7 @@ A Go-powered text editing tool that automatically corrects, formats, and transfo
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Hexadecimal to decimal conversion:**  
   `1E (hex)` → `30`
@@ -34,7 +34,7 @@ A Go-powered text editing tool that automatically corrects, formats, and transfo
 
 ---
 
-## 📂 Usage
+## Usage
 
 ```bash
 $ go run . input.txt output.txt
