@@ -33,6 +33,11 @@ A Go-powered text editing tool that automatically corrects, formats, and transfo
 - **Works with input/output file arguments.**
 
 ---
+## How to Clone
+
+```bash
+git clone https://github.com/LordAbdulla/go-reloaded.git
+cd main/main.go .
 
 ## Usage
 
